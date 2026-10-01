@@ -8,4 +8,4 @@ Mathematics with Data Science student at the London School of Economics, interes
 
 **Tools:** Python (pandas, statsmodels, scikit-learn, XGBoost, PyTorch), SQL, Excel
 
-📫 shivmoh.4444@gmail.com · [LinkedIn](www.linkedin.com/in/shivan-mohanty-b31876276)
+📫 shivmoh.4444@gmail.com · [LinkedIn](https://www.linkedin.com/in/shivan-mohanty-b31876276)
