@@ -2,8 +2,8 @@
 Mathematics with Data Science student at the London School of Economics, interested in quantitative finance, credit risk modelling and financial markets.
 
 **Projects**
-- 📈 [Cointegration-Based Pairs Trading Model](https://github.com/shivmoh4444-boop/REPO-NAME): statistical arbitrage on US airline stocks
-- 💹 [Relative Valuation Screener](https://github.com/shivmoh4444-boop/REPO-NAME): peer-relative valuation of semiconductor stocks, with a Micron investment thesis
+- 📈 [Cointegration-Based Pairs Trading Model](https://github.com/shivmoh4444-boop/pairs_trading_model): statistical arbitrage on US airline stocks
+- 💹 [Relative Valuation Screener](https://github.com/shivmoh4444-boop/semiconductor-valuation-screener): peer-relative valuation of semiconductor stocks, with a Micron investment thesis
 
 **Tools:** Python (pandas, statsmodels, scikit-learn, XGBoost, PyTorch), SQL, Excel
 
