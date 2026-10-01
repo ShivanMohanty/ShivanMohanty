@@ -1,4 +1,3 @@
-### 
 Mathematics with Data Science student at the London School of Economics, interested in quantitative finance, credit risk modelling and financial markets.
 
 **Projects**
